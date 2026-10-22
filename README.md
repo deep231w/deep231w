@@ -1,4 +1,4 @@
-** Hey, I'm Deepak kumar maharana **
+## Hey, I'm Deepak kumar maharana
 
 Backend developer interested in systems programming, runtime internals, and open-source engineering.
 
