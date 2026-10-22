@@ -28,4 +28,4 @@ Backend developer interested in systems programming, runtime internals, and open
 
 ## Connect
 
-[GitHub](https://github.com/deep231w) · [LinkedIn](https://www.linkedin.com/in/deepak-kumar-maharana-286232240/)
+[GitHub](https://github.com/deep231w) · [LinkedIn](https://www.linkedin.com/in/deepak-kumar-maharana-286232240/) · [Portfolio](https://cv-green-seven.vercel.app/)
