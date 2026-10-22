@@ -1,6 +1,6 @@
 ## Hey, I'm Deepak kumar maharana
 
-Backend developer interested in systems programming, runtime internals, and open-source engineering.
+Fullstack / Backend developer interested in systems programming, runtime internals, and open-source engineering.
 
 - Focused on backend development and infrastructure
 - Exploring systems programming and runtime internals
