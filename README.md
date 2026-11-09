@@ -5,7 +5,7 @@ Fullstack / Backend developer interested in systems programming, runtime interna
 - Focused on backend development and infrastructure
 - Exploring systems programming and runtime internals
 - Interested in understanding how software works beneath the abstractions
-
+- And i love computers
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Go
